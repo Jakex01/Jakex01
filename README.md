@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">an ambitious computer science student</h3>
 <img align="right" alt="code" width="400" src="https://gifer.com/en/87zg">
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakex01&label=Profile%20views&color=0e75b6&style=flat" alt="jakex01" /> </p>
 
 - 🔭 I’m currently working on **Math app**
