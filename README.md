@@ -3,9 +3,9 @@
 <img align="right" alt="code" width="400" src="[https://gifer.com/en/87zg](https://i.gifer.com/Ry6p.mp4)](https://i.gifer.com/Ry6p.mp4)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakex01&label=Profile%20views&color=0e75b6&style=flat" alt="jakex01" /> </p>
 
-- 🔭 I’m currently working on **Math app**
+- 🔭 I’m currently working on **Feasto App**
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **App dockerization**
 
 - 📫 How to reach me **kubasokol3001@gmail.com**
 
